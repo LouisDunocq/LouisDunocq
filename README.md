@@ -51,9 +51,17 @@ Here are some ideas to get you started:
   <a href="https://github.com/LouisDunocq/fractalens">
     <img
       width="49%"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=LouisDunocq&repo=fractalens&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800"
-      alt="fractalens"
-  />
+      src="https://github-stats-extended.vercel.app/api/pin/?username=LouisDunocq&repo=fractalens&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8"
+      alt="Fractalens"
+    />
+  </a>
+
+  <a href="https://github.com/LouisDunocq/Application-gestion-cabinet-medical">
+    <img
+      width="49%"
+      src="https://github-stats-extended.vercel.app/api/pin/?username=LouisDunocq&repo=Application-gestion-cabinet-medical&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8"
+      alt="Application-gestion-cabinet-medical"
+    />
   </a>
 </p>
 
