@@ -65,13 +65,21 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+---
 
 ## 📊 Statistiques GitHub
 
 <p align="center">
   <img height="150" src="https://github-stats-extended.vercel.app/api?username=LouisDunocq&show_icons=true&theme=radical" alt="Statistiques de Louis" />
   <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=LouisDunocq&layout=compact&theme=radical" alt="Langages les plus utilisés" />
+</p>
+
+---
+<!-- Visitor Counter find in https://count.getloli.com/ -->
+### 📈 Visitor Count
+
+<p align="center">
+  <a href="https://count.getloli.com/"><img src="https://count.getloli.com/@MyMikuLouCounter?theme=miku&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto"  width="60%" alt="Visitor Count"/></a>
 </p>
 
 ---
@@ -86,3 +94,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+
+
+
